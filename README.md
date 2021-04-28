@@ -1,4 +1,5 @@
 # Smart_Home
+![ESP8266-Relay](./figures/ESP8266-Relay.png)
 ESP8266(Arduino) + Django
 
 Communication based on HTTP Get Protocol
