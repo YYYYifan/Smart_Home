@@ -10,7 +10,7 @@ NO fixed iP-address required for ESP8266
 ![workflow](./figures/workflow.png)
 
 For ESP8266:
-1. [ESP8266] -> "I`m [uuid]" -> [SERVER]
+1. [ESP8266] -> HTTP-GET: "I`m [uuid]" -> [SERVER]
 2. [SERVER] -> SELECT state in Clinet WHERE UUID = [uuid] -> Return HTTP-200 & State
 
 For User:
